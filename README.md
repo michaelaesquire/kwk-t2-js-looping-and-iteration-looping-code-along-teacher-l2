@@ -179,3 +179,4 @@ If you're feeling a bit lost about when to use a `for` vs. a `while` loop, take 
 [loops and iteration]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-looping-and-iteration-looping-code-along'>Looping Code-along</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T2 Looping Code-along</p>
